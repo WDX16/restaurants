@@ -34,11 +34,4 @@
     "location": "Food Court 5",
     "capacity": 55
   },
-  {
-    "imageUrl": "assets/images/tropical_treats.jpg",
-    "name": "Restaurant 6 : Tropical Treats",
-    "description": "Delight in exotic fruits and desserts. Tropical Treats is a paradise for those who love fresh, tropical flavors. With a menu full of fruit smoothies, exotic juices, and tropical desserts like coconut cakes and pineapple tarts, this restaurant is perfect for those seeking a refreshing and sweet escape. Surrounded by lush greenery and palm trees, the vibe is laid-back and island-inspired.",
-    "location": "Food Court 6",
-    "capacity": 40
-  }
 ]
